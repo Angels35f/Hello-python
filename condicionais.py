@@ -12,6 +12,6 @@ if edad >= 0 and edad <= 12:
 elif edad >= 13 and edad <= 17:
     print("Você é um adolescente")
 elif edad >= 18 and edad <= 59:
-    print("Você é um Adulto")
+    print("Você é um Adulto")   z
 else:
     print("Você é um idoso")
